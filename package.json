@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://AnkitBelvanshi.github.io/codedex-color-picker/",
+  "homepage": "https://AnkitBelvanshi.github.io/codedex-color-picker/",
   "name": "codedex-color-pickr",
   "private": true,
   "version": "0.0.0",
@@ -13,6 +13,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
